@@ -26,7 +26,7 @@ In Git bezeichnet man mit Commits Veränderungen am Working Tree. Neben den Änd
 
 In Git bezeichnet man mit Index die Zwischenstufe zwischen Working Tree und Repository mit welchen ein Commit vorbereitet wird.
 
-In Git bezeichnet man mit Branch einen Entwicklungszweig. Nützlich zur Entwicklung neuer Features aber auch zur Behebung von Bugs.
+In Git bezeichnet man mit "Branch" einen Entwicklungszweig. Nützlich zur Entwicklung neuer Features aber auch zur Behebung von Bugs.
 
 Git ist ein Version Control System. Nennen Sie 2 weitere: Subversion, Mercurial.
 
